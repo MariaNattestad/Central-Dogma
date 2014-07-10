@@ -1,0 +1,5 @@
+#!/bin/bash
+
+python -c "import central_dogma; print central_dogma.DNA_to_RNA('$1')"
+
+

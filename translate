@@ -1,0 +1,4 @@
+#!/bin/bash
+
+python -c "import central_dogma; print central_dogma.translate_only_longest_ORF('$1')"
+
